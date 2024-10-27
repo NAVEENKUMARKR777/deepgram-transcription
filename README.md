@@ -31,7 +31,7 @@ The Audio Transcription App allows users to record audio and transcribe it in re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/audio-transcription-app.git
+   git clone https://github.com/NAVEENKUMARKR777/audio-transcription-app.git
    cd audio-transcription-app
 
 2.  Install dependencies:
