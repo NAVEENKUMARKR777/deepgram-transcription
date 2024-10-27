@@ -1,0 +1,17 @@
+/* src/styles/Transcription.module.css */
+
+.transcriptionContainer {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .transcriptionText {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  

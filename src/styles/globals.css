@@ -1,0 +1,38 @@
+/* src/styles/globals.css */
+
+/* Import a Google Font or other fonts you prefer */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box; /* Ensures padding and borders are included in element's total width and height */
+  margin: 0; /* Resets margin for all elements */
+  padding: 0; /* Resets padding for all elements */
+}
+
+body {
+  font-family: 'Roboto', sans-serif; /* Sets the default font for the application */
+  background-color: #f4f4f4; /* Light grey background for the body */
+  color: #333; /* Default text color */
+  line-height: 1.6; /* Improves readability by adjusting line height */
+}
+
+h1, h2 {
+  margin-bottom: 10px; /* Adds space below headers */
+}
+
+button {
+  cursor: pointer; /* Changes cursor to pointer on hover over buttons */
+  transition: background-color 0.3s ease; /* Smooth transition for button background color */
+}
+
+input[type="text"] {
+  border: 1px solid #ccc; /* Light grey border for text inputs */
+  border-radius: 3px; /* Rounded corners for inputs */
+  padding: 8px; /* Padding inside inputs */
+}
+
+input[type="text"]:focus {
+  outline: none; /* Removes the default outline on focus */
+  border-color: #007bff; /* Changes border color on focus */
+}
+ 
